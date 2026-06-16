@@ -1,6 +1,4 @@
 # project-cnn-vs-transfer-learning
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Qoqokoi/project-cnn-vs-transfer-learning)
-
 ## About The Project
 
 This repository provides a comparative analysis between training a Convolutional Neural Network (CNN) from scratch and using a transfer learning approach for binary image classification tasks. The project implements and evaluates two distinct models on two different datasets to highlight the trade-offs and performance differences between these two common deep learning strategies.
