@@ -1,0 +1,2 @@
+1. Dataset CIFAR-10 (CNN From Scratch): https://www.cs.toronto.edu/~kriz/cifar.html
+2. Dataset Oxford-IIT Pets (Transfer Learning): https://www.robots.ox.ac.uk/~vgg/data/pets/
